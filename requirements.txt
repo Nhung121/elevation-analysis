@@ -1,0 +1,6 @@
+ipykernel
+jupyter
+jupyter-core
+matplotlib
+pandas
+xlrd
