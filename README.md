@@ -1,4 +1,4 @@
-# OneMap API demo
+# Elevation analysis
 
 ### Setup
 
@@ -6,7 +6,7 @@ In the terminal, run the following commands:
 
 ```sh
 # clone repository
-git clone https://github.com/Nhung121/onemap-api-consumer
+git clone https://github.com/Nhung121/elevation-analysis
 
 # get into directory
 
@@ -15,8 +15,8 @@ git clone https://github.com/Nhung121/onemap-api-consumer
 ./setup.sh
 
 # activate virtual environment
-source .onemap-api-consumer/bin/activate
+source .elevation-analysis/bin/activate
 
 # run python program
-python3 main.py
+python3 boxchart.py
 ```
