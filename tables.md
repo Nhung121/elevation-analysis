@@ -1,0 +1,11 @@
+Built-up - DEVELOPED_
+Openland
+Other Vegetation - UNDEVELOPE
+Inland Swamp - NON_TIDAL_, RIVERINE_T, INLAND_FRE
+Tidal Flat - REGULARLY_, TIDAL_FLAT, TIDAL_SWAM, OCEAN_FLAT
+Mangrove - MANGROVE
+Beach - OCEAN_BEAC, ESTUARINE1
+Reef - ROCKY_INTE
+Open Water - OPEN_OCEAN, ESTUARINE_
+Inland Open Water - INLAND_OPE
+River - TIDAL_CREE, 

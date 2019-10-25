@@ -2,5 +2,6 @@ ipykernel
 jupyter
 jupyter-core
 matplotlib
+numpy
 pandas
 xlrd
