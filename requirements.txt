@@ -4,4 +4,5 @@ jupyter-core
 matplotlib
 numpy
 pandas
+seaborn
 xlrd
